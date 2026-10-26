@@ -166,14 +166,40 @@ def single_sweep(df):
     return pd.DataFrame([{"threshold": t, **cost(df, t, t)} for t in GRID])
 
 
+TIE_TOLERANCE = 0.001  # costs within 0.1% of the minimum count as "equally cheap"
+
+
+def best_single(sweep):
+    """Cheapest threshold. When a whole range is equally cheap (the model separates the classes
+    cleanly), take the MIDDLE of that range: the most room for error on both sides."""
+    best = sweep.cost_per_1000.min()
+    ties = sweep[sweep.cost_per_1000 <= best * (1 + TIE_TOLERANCE) + 1e-9].threshold
+    return float(round(ties.median(), 2)), float(ties.min()), float(ties.max())
+
+
 def best_band(df):
-    best = None
-    for lo in GRID:
-        for hi in GRID[GRID >= lo]:
-            r = cost(df, lo, hi)
-            if best is None or r["cost_per_1000"] < best[2]["cost_per_1000"] - 1e-9:
-                best = (float(lo), float(hi), r)
-    return best
+    """Cheapest (low, high) pair. Among equally cheap pairs, take the WIDEST review band: any note
+    scored between what genuine and fake notes looked like in validation goes to a person."""
+    rows = [(float(lo), float(hi), cost(df, lo, hi)["cost_per_1000"])
+            for lo in GRID for hi in GRID[GRID >= lo]]
+    best = min(c for _, _, c in rows)
+    ties = [(lo, hi) for lo, hi, c in rows if c <= best * (1 + TIE_TOLERANCE) + 1e-9]
+    lo, hi = max(ties, key=lambda t: (round(t[1] - t[0], 2), -t[0]))
+    return lo, hi, cost(df, lo, hi)
+
+
+def frame_check(val_df, test_df):
+    """Roboflow file names look like 'coun1000b-f14_jpg.rf.<hash>.jpg': video 'coun1000b', frame 14.
+    If the same videos appear in every split, test frames are neighbours of training frames."""
+    out = {}
+    for name, df in [("valid", val_df), ("test", test_df)]:
+        stem = df.image.str.split("_jpg").str[0]
+        video = stem.str.replace(r"-f\d+$", "", regex=True)
+        out[name] = {"images": int(len(df)), "source_videos": int(video.nunique()),
+                     "frames_per_video": video.value_counts().describe()[["min", "max"]].to_dict(),
+                     "videos": sorted(video.unique().tolist())}
+    out["same_videos_in_valid_and_test"] = out["valid"]["videos"] == out["test"]["videos"]
+    return out
 
 
 def run_costing(val_df, test_df):
@@ -181,7 +207,7 @@ def run_costing(val_df, test_df):
     val_sweep, test_sweep = single_sweep(val_df), single_sweep(test_df)
     val_sweep.to_csv(ARTIFACTS / "cost_sweep_val.csv", index=False)
     test_sweep.to_csv(ARTIFACTS / "cost_sweep_test.csv", index=False)
-    t_star = float(val_sweep.loc[val_sweep.cost_per_1000.idxmin(), "threshold"])
+    t_star, flat_lo, flat_hi = best_single(val_sweep)
     lo, hi, _ = best_band(val_df)
 
     def on_test(low, high):
@@ -211,7 +237,10 @@ def run_costing(val_df, test_df):
         "costs": {"fn": "face value of the fake (pesos x EUR_PER_PHP)", "eur_per_php": EUR_PER_PHP,
                   "fp": COST_FP, "tp": COST_TP, "tn": COST_TN, "review": COST_REVIEW, "base_rate": BASE_RATE},
         "chosen": {"single_threshold": t_star, "review_low": lo, "review_high": hi,
+                   "equally_cheap_single_thresholds": [flat_lo, flat_hi],
+                   "tie_rule": "middle of the cheapest range; widest review band among cheapest pairs",
                    "chosen_on": "validation split"},
+        "frame_check": frame_check(val_df, test_df),
         "policies_on_test": policies,
     }
 

@@ -1,0 +1,441 @@
+image,is_fake,true_class,value_php,fake_score,real_score
+coun1000b-f100_jpg.rf.abaff91883d595ac136233310de68225.jpg,1,Counterfeit one thousand peso,1000,0.9707629084587097,0.0046018860302865505
+coun1000b-f11_jpg.rf.6312a7a189c3c715656ab5f50b3921bd.jpg,1,Counterfeit one thousand peso,1000,0.9713525176048279,0.006240283604711294
+coun1000b-f17_jpg.rf.b447a6dd8c62ab8119d09e09ead50b22.jpg,1,Counterfeit one thousand peso,1000,0.9706569910049438,0.0051565938629209995
+coun1000b-f20_jpg.rf.7189a74b9851f2d4c86992aa93609258.jpg,1,Counterfeit one thousand peso,1000,0.971077024936676,0.0051539596170187
+coun1000b-f26_jpg.rf.c12dba415547e35e668bd5fc814e6c22.jpg,1,Counterfeit one thousand peso,1000,0.9715856313705444,0.004196156281977892
+coun1000b-f30_jpg.rf.637162d27bc2d75ac257454041e4b24b.jpg,1,Counterfeit one thousand peso,1000,0.9703633785247803,0.003651142120361328
+coun1000b-f32_jpg.rf.359bac16b5bd22f79e920bd84d275b7a.jpg,1,Counterfeit one thousand peso,1000,0.9712688326835632,0.005707243923097849
+coun1000b-f38_jpg.rf.d62a2033c964d865ea3ecc813f514c11.jpg,1,Counterfeit one thousand peso,1000,0.9709181785583496,0.0035432595759630203
+coun1000b-f39_jpg.rf.697deb87ae8a8bcabf273d2997467eb6.jpg,1,Counterfeit one thousand peso,1000,0.971209704875946,0.004893581848591566
+coun1000b-f40_jpg.rf.5ff5850fd008edbc38a6e73557bab499.jpg,1,Counterfeit one thousand peso,1000,0.9710628390312195,0.0030472378712147474
+coun1000b-f41_jpg.rf.c51d6770707b9875f433177819f38f3f.jpg,1,Counterfeit one thousand peso,1000,0.9711596369743347,0.006015835329890251
+coun1000b-f47_jpg.rf.9cc3dccaca0ecb4500546d1a07ae21b7.jpg,1,Counterfeit one thousand peso,1000,0.9700828194618225,0.004433278925716877
+coun1000b-f49_jpg.rf.80e4e4473062c709e9b6f5db66d55551.jpg,1,Counterfeit one thousand peso,1000,0.970376193523407,0.0048210155218839645
+coun1000b-f52_jpg.rf.0c6617fe8d7eb184b0ab3b72c2415dab.jpg,1,Counterfeit one thousand peso,1000,0.9714259505271912,0.0054618073627352715
+coun1000b-f67_jpg.rf.b5bd9fe29ffc99c27a5ce6b9c16d751e.jpg,1,Counterfeit one thousand peso,1000,0.9708306789398193,0.004613385070115328
+coun1000b-f82_jpg.rf.3dbb100a452956cb1d14218052dfefca.jpg,1,Counterfeit one thousand peso,1000,0.9704495072364807,0.003697273088619113
+coun1000b-f83_jpg.rf.fd2e0ebc42d455c4d25366f40d21bd1c.jpg,1,Counterfeit one thousand peso,1000,0.9709320068359375,0.006437904201447964
+coun1000b-f94_jpg.rf.6d5dacee823f23f767276c3b173eeb78.jpg,1,Counterfeit one thousand peso,1000,0.9707472920417786,0.00624631904065609
+coun1000b-f95_jpg.rf.a2077be92f98807e8b00e7fa73df9142.jpg,1,Counterfeit one thousand peso,1000,0.9710032939910889,0.0044973380863666534
+coun1000b-f97_jpg.rf.a6cafc3d55afc1fa2d5f4d50ee232363.jpg,1,Counterfeit one thousand peso,1000,0.9705851078033447,0.004142521880567074
+coun1000f-f17_jpg.rf.44cfe54e6e9f73bef571d7ccfb6ae3fd.jpg,1,Counterfeit one thousand peso,1000,0.961830198764801,0.0
+coun1000f-f19_jpg.rf.6104547e2cdf8c0af21f52c66a944478.jpg,1,Counterfeit one thousand peso,1000,0.9566641449928284,0.0
+coun1000f-f22_jpg.rf.8bb6553e7fe4eae4d3062c41dd8ecf14.jpg,1,Counterfeit one thousand peso,1000,0.9573720693588257,0.0
+coun1000f-f23_jpg.rf.90575bb82d2091c21a7348d05c6e60ec.jpg,1,Counterfeit one thousand peso,1000,0.960667610168457,0.0
+coun1000f-f30_jpg.rf.588f15cb22254b6a948e60b3843c30a1.jpg,1,Counterfeit one thousand peso,1000,0.9608371257781982,0.0
+coun1000f-f33_jpg.rf.985314f182eeb5f9efb0569048d329b4.jpg,1,Counterfeit one thousand peso,1000,0.957402765750885,0.0
+coun1000f-f39_jpg.rf.39702ee8df1efff7b47f6f8fcc5d022f.jpg,1,Counterfeit one thousand peso,1000,0.9569653272628784,0.0
+coun1000f-f40_jpg.rf.222d50f255d66927c8f1209414ad3c9d.jpg,1,Counterfeit one thousand peso,1000,0.960233747959137,0.0
+coun1000f-f45_jpg.rf.93f09ca267561169e3f7287503c2240f.jpg,1,Counterfeit one thousand peso,1000,0.9574154615402222,0.0
+coun1000f-f52_jpg.rf.6ec8251a74c066cd78aec5dcf86b9d7a.jpg,1,Counterfeit one thousand peso,1000,0.9609667062759399,0.0
+coun1000f-f57_jpg.rf.2857512257123a0ec92de1f35438595a.jpg,1,Counterfeit one thousand peso,1000,0.9574059247970581,0.0
+coun1000f-f58_jpg.rf.6ce3a966bdc4d5516ce388fd0aaf8d4c.jpg,1,Counterfeit one thousand peso,1000,0.9587722420692444,0.0
+coun1000f-f74_jpg.rf.df1e3548cf67132b48353b9f0b6f082f.jpg,1,Counterfeit one thousand peso,1000,0.9571664929389954,0.0
+coun1000f-f79_jpg.rf.35521fd561dacc2d1fb6254e0a11fea7.jpg,1,Counterfeit one thousand peso,1000,0.957587480545044,0.0
+coun1000f-f87_jpg.rf.b372f2d82a9eb1b04a0477d9e6006fd1.jpg,1,Counterfeit one thousand peso,1000,0.9618798494338989,0.0
+coun1000f-f88_jpg.rf.15778120e9e861cd8275fe4920e56117.jpg,1,Counterfeit one thousand peso,1000,0.9621819257736206,0.0
+coun1000f-f89_jpg.rf.2f82b00cd3dab5b0e7c03dc405030a77.jpg,1,Counterfeit one thousand peso,1000,0.9572533965110779,0.0
+coun1000f-f8_jpg.rf.4e0b313f0051cd6d695bfab8460d4d7e.jpg,1,Counterfeit one thousand peso,1000,0.9574372172355652,0.0
+coun1000f-f92_jpg.rf.7df38ccad4416cc28c35f44b59b77a2c.jpg,1,Counterfeit one thousand peso,1000,0.957295835018158,0.0
+coun1000f-f95_jpg.rf.d7f270cf8faba87cd21f2fe914d54d25.jpg,1,Counterfeit one thousand peso,1000,0.9567983746528625,0.0
+coun100b-f28_jpg.rf.b0363a5aade4b75cb0ad34d5ca3d3759.jpg,1,Counterfeit one hundred peso,100,0.9486418962478638,0.0
+coun100b-f30_jpg.rf.11082276bfc714daa29ab0947b8fc2ec.jpg,1,Counterfeit one hundred peso,100,0.9511073231697083,0.0
+coun100b-f3_jpg.rf.ff26bd19acb871498d885aa23063b5d1.jpg,1,Counterfeit one hundred peso,100,0.9357768893241882,0.0
+coun100b-f45_jpg.rf.751d1ff616376a587c8d9e441b11766c.jpg,1,Counterfeit one hundred peso,100,0.94330894947052,0.0
+coun100b-f46_jpg.rf.1c1eaf5c25a4c8ba8be09d66d0af213b.jpg,1,Counterfeit one hundred peso,100,0.9343089461326599,0.001046986086294055
+coun100b-f4_jpg.rf.5ba176d68baf3770c95348a2f6341374.jpg,1,Counterfeit one hundred peso,100,0.9385516047477722,0.0
+coun100b-f51_jpg.rf.a35b75a4eace0718dc560afcaacb4e5d.jpg,1,Counterfeit one hundred peso,100,0.9482337832450867,0.0
+coun100b-f52_jpg.rf.fc6364cd2759d48cef7732c990e7a8dd.jpg,1,Counterfeit one hundred peso,100,0.9445160627365112,0.0
+coun100b-f63_jpg.rf.54a6b27f127500272c87764a9359ab39.jpg,1,Counterfeit one hundred peso,100,0.9468175172805786,0.0011519124964252114
+coun100b-f66_jpg.rf.fabf43884d424fc466bc898bafe3c5d4.jpg,1,Counterfeit one hundred peso,100,0.9438087344169617,0.0
+coun100b-f67_jpg.rf.51a429f851c9895e2a576abd86d23b63.jpg,1,Counterfeit one hundred peso,100,0.948515772819519,0.0
+coun100b-f70_jpg.rf.bc9b5cc7f4ee6934d7b0c4c4655f0eb2.jpg,1,Counterfeit one hundred peso,100,0.949995219707489,0.0
+coun100b-f79_jpg.rf.ec42f612cdbfd08688129afd2ecb14bc.jpg,1,Counterfeit one hundred peso,100,0.9490673542022705,0.0
+coun100b-f7_jpg.rf.d9cf5eae3653c105e22178bccc36a08d.jpg,1,Counterfeit one hundred peso,100,0.9488207697868347,0.0
+coun100b-f87_jpg.rf.7ed0294072b5e6102600c7430c30cf83.jpg,1,Counterfeit one hundred peso,100,0.9483226537704468,0.0
+coun100b-f88_jpg.rf.b67015fb0b5214f193521b9e3b3a3f28.jpg,1,Counterfeit one hundred peso,100,0.9474480152130127,0.0
+coun100b-f89_jpg.rf.30864b047218eeeca113c2d6704c23c9.jpg,1,Counterfeit one hundred peso,100,0.949313759803772,0.0
+coun100b-f93_jpg.rf.4d744e59a3543d26ca7e9876f975f879.jpg,1,Counterfeit one hundred peso,100,0.9359409809112549,0.0
+coun100b-f97_jpg.rf.c12f8422efbd1ee99c762ae1848c1693.jpg,1,Counterfeit one hundred peso,100,0.9498588442802429,0.0
+coun100b-f9_jpg.rf.2677a131ed6cc21394d98cf204eb19e1.jpg,1,Counterfeit one hundred peso,100,0.9450269341468811,0.0
+coun100f-f12_jpg.rf.aa68975bb5e793855a159ec14d2cc6e2.jpg,1,Counterfeit one hundred peso,100,0.9409903287887573,0.0
+coun100f-f1_jpg.rf.4d2f0a0a7a427c47cdc79880a2b47268.jpg,1,Counterfeit one hundred peso,100,0.9400188326835632,0.0
+coun100f-f25_jpg.rf.9f602a5378a0d97558893e019760910d.jpg,1,Counterfeit one hundred peso,100,0.9399085640907288,0.0
+coun100f-f26_jpg.rf.b76e5f15fb288ca3d43b418dcd17b4ea.jpg,1,Counterfeit one hundred peso,100,0.9403001070022583,0.0
+coun100f-f28_jpg.rf.f8e67d2330e6a5a0c54c5ca060277b43.jpg,1,Counterfeit one hundred peso,100,0.9410026669502258,0.0
+coun100f-f2_jpg.rf.4732c12c85fc959493a5b56d51775931.jpg,1,Counterfeit one hundred peso,100,0.9408530592918396,0.0
+coun100f-f33_jpg.rf.67b7c32cbeacc0c5c77eb9a11660ea2a.jpg,1,Counterfeit one hundred peso,100,0.9407832026481628,0.0
+coun100f-f34_jpg.rf.64c43ce5f74b63553c344dbdd1ce5f36.jpg,1,Counterfeit one hundred peso,100,0.9421394467353821,0.0
+coun100f-f44_jpg.rf.fec0ef401f22ef3219ecbeefddb4b0aa.jpg,1,Counterfeit one hundred peso,100,0.9413168430328369,0.0
+coun100f-f50_jpg.rf.ff3ad73c1ee2acf4ce23e4fd25732343.jpg,1,Counterfeit one hundred peso,100,0.9402042627334595,0.0
+coun100f-f54_jpg.rf.a9d5d9319525905d3b200848e81d41fe.jpg,1,Counterfeit one hundred peso,100,0.9401795268058777,0.0
+coun100f-f55_jpg.rf.50b547e176ce7bfc4c1413386361b293.jpg,1,Counterfeit one hundred peso,100,0.9412789344787598,0.0
+coun100f-f62_jpg.rf.e722594a70b28a59ead5cf12e4245c40.jpg,1,Counterfeit one hundred peso,100,0.9404187798500061,0.0
+coun100f-f69_jpg.rf.49625b86f6dc2b6badd3cb4fac7ad16b.jpg,1,Counterfeit one hundred peso,100,0.9404921531677246,0.0
+coun100f-f80_jpg.rf.de430ebc457ec1102be3ad811659d82b.jpg,1,Counterfeit one hundred peso,100,0.9397947788238525,0.0
+coun100f-f81_jpg.rf.2ae2c9d0c556a1092dfa633b4b0f6e29.jpg,1,Counterfeit one hundred peso,100,0.939339816570282,0.0
+coun100f-f83_jpg.rf.bbeef2d91bebc232b5506f4ea7765dc6.jpg,1,Counterfeit one hundred peso,100,0.9396438002586365,0.0
+coun100f-f87_jpg.rf.b8b265422fd0969464c06b49c060c30d.jpg,1,Counterfeit one hundred peso,100,0.9405190348625183,0.0
+coun100f-f90_jpg.rf.a1466d935371dd9477c9cb20050bda16.jpg,1,Counterfeit one hundred peso,100,0.9410861730575562,0.0
+coun100f-f98_jpg.rf.eec25d2579ebf2d37eda25a82821f99e.jpg,1,Counterfeit one hundred peso,100,0.9414573311805725,0.0
+coun200b-f12_jpg.rf.e2e803bc5e10d4dd0718d86ae3bc07db.jpg,1,Counterfeit two hundred peso,200,0.9671526551246643,0.0
+coun200b-f17_jpg.rf.d9fbfce6c5ed7c2aa42d52ba1c20a51b.jpg,1,Counterfeit two hundred peso,200,0.9671599864959717,0.0
+coun200b-f28_jpg.rf.490d550052f45a5a09e216a9a40b4610.jpg,1,Counterfeit two hundred peso,200,0.9674133062362671,0.0
+coun200b-f34_jpg.rf.0f3f49b689cfa4de7240b1194efcae6d.jpg,1,Counterfeit two hundred peso,200,0.9673705697059631,0.0
+coun200b-f35_jpg.rf.cb0b8736ebb5c54ca898855bde214ae3.jpg,1,Counterfeit two hundred peso,200,0.9668662548065186,0.0
+coun200b-f36_jpg.rf.77e87ce61c9e805473397230267bbcae.jpg,1,Counterfeit two hundred peso,200,0.9670963287353516,0.0
+coun200b-f38_jpg.rf.9018d55b7ecce5571768910249d16947.jpg,1,Counterfeit two hundred peso,200,0.9674378633499146,0.0
+coun200b-f41_jpg.rf.402c7ed4a4af11ae0028168c659770d7.jpg,1,Counterfeit two hundred peso,200,0.9670011401176453,0.0
+coun200b-f46_jpg.rf.4d48d6c1a50f2d7bd08830de5203c9b4.jpg,1,Counterfeit two hundred peso,200,0.9670928716659546,0.0
+coun200b-f53_jpg.rf.29429fee347b65d2a499fd47c28ad88b.jpg,1,Counterfeit two hundred peso,200,0.9673337340354919,0.0
+coun200b-f60_jpg.rf.9e70bc231805178a5d574a69e0c9bfce.jpg,1,Counterfeit two hundred peso,200,0.9670724868774414,0.0
+coun200b-f6_jpg.rf.b4bcd2fad58ca756550529cfd49b2d4b.jpg,1,Counterfeit two hundred peso,200,0.9670652151107788,0.0
+coun200b-f70_jpg.rf.ef6a886af59c1cfb06e3d8ed1395d9ef.jpg,1,Counterfeit two hundred peso,200,0.9672669172286987,0.0
+coun200b-f77_jpg.rf.cd382abe4cad572a9e96ce03929335e4.jpg,1,Counterfeit two hundred peso,200,0.9675160646438599,0.0
+coun200b-f81_jpg.rf.7c5ee096fd29707530d2c4c10e9b6d03.jpg,1,Counterfeit two hundred peso,200,0.9668850898742676,0.0
+coun200b-f83_jpg.rf.3cd6d14be9058ca9de04de39e4277776.jpg,1,Counterfeit two hundred peso,200,0.9671614170074463,0.0
+coun200b-f90_jpg.rf.9f4d561f5478848b51d2427ee131b910.jpg,1,Counterfeit two hundred peso,200,0.9675087928771973,0.0
+coun200b-f92_jpg.rf.7c0dd05a39b1c19ff3a0df6ac4a3f99b.jpg,1,Counterfeit two hundred peso,200,0.9669109582901001,0.0
+coun200b-f93_jpg.rf.3bef56c01909eda830ac7fe9b1179d4b.jpg,1,Counterfeit two hundred peso,200,0.9670702219009399,0.0
+coun200b-f9_jpg.rf.da07cc43ca30b53bb9623e0dc49a3e0c.jpg,1,Counterfeit two hundred peso,200,0.9673529267311096,0.0
+coun200f-f11_jpg.rf.6be77dd09f6c34ed3541e9a5473bb2fe.jpg,1,Counterfeit two hundred peso,200,0.954477846622467,0.0
+coun200f-f16_jpg.rf.2e87a3496ca1c163183555e28aec7ea3.jpg,1,Counterfeit two hundred peso,200,0.955775797367096,0.0
+coun200f-f1_jpg.rf.d50d9c59e081c61219a566459f73b4af.jpg,1,Counterfeit two hundred peso,200,0.9555184245109558,0.0
+coun200f-f22_jpg.rf.e654372ccb8e88e04a6759d924e051a6.jpg,1,Counterfeit two hundred peso,200,0.9548767805099487,0.0
+coun200f-f33_jpg.rf.a822ba841cd6ddd1044f742b0ec878a2.jpg,1,Counterfeit two hundred peso,200,0.9545713663101196,0.0
+coun200f-f34_jpg.rf.791b548a8302798a5e94bb81a4b762a6.jpg,1,Counterfeit two hundred peso,200,0.9557099342346191,0.0
+coun200f-f40_jpg.rf.32158f23d36f754e4141c647baa4d167.jpg,1,Counterfeit two hundred peso,200,0.9545581936836243,0.0
+coun200f-f53_jpg.rf.cfaf8816743565df2f61d7ceb5bb42aa.jpg,1,Counterfeit two hundred peso,200,0.9549984335899353,0.0
+coun200f-f56_jpg.rf.643d04be44732f6c0f5297d92070d3df.jpg,1,Counterfeit two hundred peso,200,0.955295979976654,0.0
+coun200f-f58_jpg.rf.f2a69117e54c4ff52e5bca50cfffd8e4.jpg,1,Counterfeit two hundred peso,200,0.9546844363212585,0.0
+coun200f-f59_jpg.rf.82625fd4576cb567bec0fbaea3680ab8.jpg,1,Counterfeit two hundred peso,200,0.9547752141952515,0.0
+coun200f-f61_jpg.rf.a447d04217996b0254ad415e76a537ea.jpg,1,Counterfeit two hundred peso,200,0.9553136229515076,0.0
+coun200f-f63_jpg.rf.75a5132391cbc7153147b17dbc3377c7.jpg,1,Counterfeit two hundred peso,200,0.9531708359718323,0.0
+coun200f-f64_jpg.rf.8767477f535a5290a2678e334c3035e7.jpg,1,Counterfeit two hundred peso,200,0.9550754427909851,0.0
+coun200f-f65_jpg.rf.026df9ef1fa5303fa6fd4371b69ef168.jpg,1,Counterfeit two hundred peso,200,0.9552764296531677,0.0
+coun200f-f6_jpg.rf.66a45f4a2191eeedccc0dba15f2afc1e.jpg,1,Counterfeit two hundred peso,200,0.953830361366272,0.0
+coun200f-f71_jpg.rf.b3a8e35a88e79a736fe234ba0dde731d.jpg,1,Counterfeit two hundred peso,200,0.9542977213859558,0.0
+coun200f-f77_jpg.rf.5575a0ad4ebdb658f0eb0a1d69b91186.jpg,1,Counterfeit two hundred peso,200,0.9544482827186584,0.0
+coun200f-f93_jpg.rf.96e368fdb8b3ca533a7c7dc3056a0712.jpg,1,Counterfeit two hundred peso,200,0.9545772075653076,0.0
+coun200f-f94_jpg.rf.4fb29f12703281d7f70c9790e17297f1.jpg,1,Counterfeit two hundred peso,200,0.95416259765625,0.0
+coun20b-f100_jpg.rf.0d1b2bdcb209904d3f8fcb760bd77a91.jpg,1,Counterfeit twenty peso,20,0.9711014032363892,0.0022254250943660736
+coun20b-f15_jpg.rf.fabc3ec1df5a197ed40c73d280f38a72.jpg,1,Counterfeit twenty peso,20,0.9693503975868225,0.004520534537732601
+coun20b-f23_jpg.rf.7571910d7a9206f5320674c8e24d2aef.jpg,1,Counterfeit twenty peso,20,0.9698914885520935,0.0011618906864896417
+coun20b-f25_jpg.rf.258c351ca0c926ec99200453d5ed6582.jpg,1,Counterfeit twenty peso,20,0.9727582335472107,0.0032683920580893755
+coun20b-f26_jpg.rf.e8bff1e1506c4a868160cec35386f44e.jpg,1,Counterfeit twenty peso,20,0.9691332578659058,0.0017153852386400104
+coun20b-f28_jpg.rf.d5dbde6c10f1d10c4a9b35d8a5f38c15.jpg,1,Counterfeit twenty peso,20,0.9710595011711121,0.002590474206954241
+coun20b-f29_jpg.rf.2efb2592a0ae05fc4da70601f3237b2c.jpg,1,Counterfeit twenty peso,20,0.9695830941200256,0.0022280439734458923
+coun20b-f2_jpg.rf.6c74a5e5f659daa538a34a1fa43927ee.jpg,1,Counterfeit twenty peso,20,0.9705618619918823,0.0024298098869621754
+coun20b-f37_jpg.rf.abfab949febbac80f40b9475bba390d4.jpg,1,Counterfeit twenty peso,20,0.9711233377456665,0.0015883060405030847
+coun20b-f38_jpg.rf.d07850fd9edba43aab5a40ca1b971bfc.jpg,1,Counterfeit twenty peso,20,0.9729940891265869,0.002843124559149146
+coun20b-f39_jpg.rf.05759eadb2d737fc6dd45093d74adb92.jpg,1,Counterfeit twenty peso,20,0.973334014415741,0.003450593678280711
+coun20b-f49_jpg.rf.23d3f182166f07b9d3594815962d4c31.jpg,1,Counterfeit twenty peso,20,0.9704664349555969,0.002600429579615593
+coun20b-f53_jpg.rf.1b0977ed3e20292bbd6d7c3a7dbfaa83.jpg,1,Counterfeit twenty peso,20,0.9731073975563049,0.004502099007368088
+coun20b-f55_jpg.rf.1ac68d248e60e34189b5ef6c930d3b68.jpg,1,Counterfeit twenty peso,20,0.9731249809265137,0.0030498334672302008
+coun20b-f56_jpg.rf.ca75880b68383e2ff117885b7300ce23.jpg,1,Counterfeit twenty peso,20,0.9730973243713379,0.002110578352585435
+coun20b-f66_jpg.rf.59cab9cd4d004f34ddef159ea07e2dc9.jpg,1,Counterfeit twenty peso,20,0.9727239608764648,0.0
+coun20b-f69_jpg.rf.d3b44260d504ad9ecf70a3c0b942d1a0.jpg,1,Counterfeit twenty peso,20,0.9726505279541016,0.0013536104233935475
+coun20b-f79_jpg.rf.e9e083b5bf5ff5efe266016e078e5746.jpg,1,Counterfeit twenty peso,20,0.9710627198219299,0.002204771852120757
+coun20b-f7_jpg.rf.e677193ba009952734ef11949846930c.jpg,1,Counterfeit twenty peso,20,0.9714652299880981,0.002447689650580287
+coun20b-f9_jpg.rf.5f8a292b475c09d6580e736408bf9a2b.jpg,1,Counterfeit twenty peso,20,0.9709386825561523,0.0026428692508488894
+coun20f-f100_jpg.rf.362756750a8b2d544b0452020cde2fbe.jpg,1,Counterfeit twenty peso,20,0.969424307346344,0.0
+coun20f-f1_jpg.rf.77823469a0a479b0e208596acf59cff3.jpg,1,Counterfeit twenty peso,20,0.9693952202796936,0.0
+coun20f-f28_jpg.rf.2f83e4304f680440cccfc7ad054efb8e.jpg,1,Counterfeit twenty peso,20,0.9687789082527161,0.0
+coun20f-f2_jpg.rf.7920f1f244fd33ac510180bf3d727eb0.jpg,1,Counterfeit twenty peso,20,0.9697158932685852,0.0
+coun20f-f33_jpg.rf.9737c06dd8dcdffc80ee8e2156d0b5ed.jpg,1,Counterfeit twenty peso,20,0.9694607257843018,0.0
+coun20f-f37_jpg.rf.b917d16815c6a813252046119acebb4e.jpg,1,Counterfeit twenty peso,20,0.9693530797958374,0.0
+coun20f-f38_jpg.rf.e48ec6ad5be46957ce635b76284e5eaa.jpg,1,Counterfeit twenty peso,20,0.9690437912940979,0.0
+coun20f-f43_jpg.rf.b7249f4d60a57b255befe0e430ffc368.jpg,1,Counterfeit twenty peso,20,0.9691773653030396,0.0
+coun20f-f50_jpg.rf.db9b88ce1f806c9881a66f98ebf0b991.jpg,1,Counterfeit twenty peso,20,0.9694498777389526,0.0
+coun20f-f55_jpg.rf.9edca80ddac1fbdd52cf3e0b628a619f.jpg,1,Counterfeit twenty peso,20,0.9691438674926758,0.0
+coun20f-f56_jpg.rf.35c55ba18dac1c36d437bc4b1837371f.jpg,1,Counterfeit twenty peso,20,0.969557523727417,0.0
+coun20f-f71_jpg.rf.8a47fb267ed68c0a8b69e8a79d4bb87b.jpg,1,Counterfeit twenty peso,20,0.969235360622406,0.0
+coun20f-f77_jpg.rf.14be016f75fa979e16a75e8420524005.jpg,1,Counterfeit twenty peso,20,0.9694443941116333,0.0
+coun20f-f81_jpg.rf.f0507d5c245211a9edd5484e182d8aff.jpg,1,Counterfeit twenty peso,20,0.9693844318389893,0.0
+coun20f-f83_jpg.rf.e29bf4a7d4da3243b418e0e2fc5187ba.jpg,1,Counterfeit twenty peso,20,0.9690542221069336,0.0
+coun20f-f86_jpg.rf.1cdb367b849ac141a1acee74517385e7.jpg,1,Counterfeit twenty peso,20,0.9693511724472046,0.0
+coun20f-f89_jpg.rf.41dadbbf08ea0f4d8c4ea9d04290a93e.jpg,1,Counterfeit twenty peso,20,0.969569742679596,0.0
+coun20f-f8_jpg.rf.b5aea5a80c04b626ff75ea6adf046e18.jpg,1,Counterfeit twenty peso,20,0.9696263670921326,0.0
+coun20f-f92_jpg.rf.29cf6d37555b653009dac305e7d58c97.jpg,1,Counterfeit twenty peso,20,0.9690125584602356,0.0
+coun20f-f98_jpg.rf.84cfbabd6caf61905c707f0d10eb6ac7.jpg,1,Counterfeit twenty peso,20,0.9693163633346558,0.0
+coun500b-f11_jpg.rf.ddac7f78342bc6a2a8a67d28fc247755.jpg,1,Counterfeit five hundred peso,500,0.9715200066566467,0.0
+coun500b-f12_jpg.rf.911ebab211d0e8d676017b56726e3221.jpg,1,Counterfeit five hundred peso,500,0.971886396408081,0.0
+coun500b-f14_jpg.rf.f086ba860fc2212a239e27d04b5f2708.jpg,1,Counterfeit five hundred peso,500,0.9717084169387817,0.0
+coun500b-f2_jpg.rf.678c7c5603cf5a30faf3d622f6525edd.jpg,1,Counterfeit five hundred peso,500,0.9714367389678955,0.0
+coun500b-f31_jpg.rf.40077439ccbf7816069b7d7bccef8ecb.jpg,1,Counterfeit five hundred peso,500,0.9719342589378357,0.0
+coun500b-f34_jpg.rf.7bd45ad6fd279ae39d02f83d51b19384.jpg,1,Counterfeit five hundred peso,500,0.9716092348098755,0.0
+coun500b-f37_jpg.rf.fd75732d8f79cb79e33be5a13a03cf32.jpg,1,Counterfeit five hundred peso,500,0.9719477891921997,0.0
+coun500b-f40_jpg.rf.76261c43afef65ea584552ba0147b24b.jpg,1,Counterfeit five hundred peso,500,0.9718542695045471,0.0
+coun500b-f41_jpg.rf.d7719d2e5a3c6fb6371e20f570eaf7ad.jpg,1,Counterfeit five hundred peso,500,0.971748948097229,0.0
+coun500b-f43_jpg.rf.26020e9da75360c94c8bfb431d2747ca.jpg,1,Counterfeit five hundred peso,500,0.9716088175773621,0.0
+coun500b-f44_jpg.rf.c192233ff6c7fe5b143775b092227875.jpg,1,Counterfeit five hundred peso,500,0.9717560410499573,0.0
+coun500b-f49_jpg.rf.eba0b612b088c412ff6e0a961627f6cb.jpg,1,Counterfeit five hundred peso,500,0.9718388915061951,0.0
+coun500b-f53_jpg.rf.f56d4aaeb268890d4630e615330f7223.jpg,1,Counterfeit five hundred peso,500,0.971805989742279,0.0
+coun500b-f60_jpg.rf.7e2ea07aa2bb4324a277144aeb0cca5d.jpg,1,Counterfeit five hundred peso,500,0.971794843673706,0.0
+coun500b-f63_jpg.rf.3892985a5809c65aca8ba56a55fb6465.jpg,1,Counterfeit five hundred peso,500,0.9714364409446716,0.0
+coun500b-f6_jpg.rf.018674f494462c0a76f206965518f933.jpg,1,Counterfeit five hundred peso,500,0.9714992046356201,0.0
+coun500b-f7_jpg.rf.430577dc9c48905b6b17983809a28e74.jpg,1,Counterfeit five hundred peso,500,0.9719365835189819,0.0
+coun500b-f86_jpg.rf.cc841fb9e90db5b563621d4a17a1f8ea.jpg,1,Counterfeit five hundred peso,500,0.9718037247657776,0.0
+coun500b-f8_jpg.rf.26e10f170cf64e89e409b086091927b3.jpg,1,Counterfeit five hundred peso,500,0.9722784161567688,0.0
+coun500b-f92_jpg.rf.66bcab95b3a65b461a033b8ffa753495.jpg,1,Counterfeit five hundred peso,500,0.9716827273368835,0.0
+coun500f-f13_jpg.rf.2314035480105f8896efc303892893ec.jpg,1,Counterfeit five hundred peso,500,0.9711914658546448,0.0
+coun500f-f15_jpg.rf.ca6609f9fd5b6548e420f833d9d28b7b.jpg,1,Counterfeit five hundred peso,500,0.9711394906044006,0.0
+coun500f-f1_jpg.rf.a603b0f656d58446fd5cb5291ecf777c.jpg,1,Counterfeit five hundred peso,500,0.9708861708641052,0.0
+coun500f-f24_jpg.rf.0df82dd17f5fa09501cada9595fcacfb.jpg,1,Counterfeit five hundred peso,500,0.9712047576904297,0.0
+coun500f-f29_jpg.rf.72f6bbd119f947e1b9e3bc125f0d3bbb.jpg,1,Counterfeit five hundred peso,500,0.9714410305023193,0.0
+coun500f-f31_jpg.rf.fe4f5ddabe0b2731fa0d3a70e35ec712.jpg,1,Counterfeit five hundred peso,500,0.9708340167999268,0.0
+coun500f-f34_jpg.rf.e32b42c71466fb04d6d57abb39bf6d70.jpg,1,Counterfeit five hundred peso,500,0.9712178707122803,0.0
+coun500f-f43_jpg.rf.4ea7cb163fbaceca627df00e3eaa7b84.jpg,1,Counterfeit five hundred peso,500,0.9711260199546814,0.0
+coun500f-f50_jpg.rf.ef3b053b120b0d1890a56e97f39d1a7a.jpg,1,Counterfeit five hundred peso,500,0.9711558222770691,0.0
+coun500f-f52_jpg.rf.7b47261bbcc628b70f9bd690f41b5e5e.jpg,1,Counterfeit five hundred peso,500,0.971385657787323,0.0
+coun500f-f53_jpg.rf.ec289851d5ed520100090182200e2d08.jpg,1,Counterfeit five hundred peso,500,0.9712387919425964,0.0
+coun500f-f56_jpg.rf.de28e63f7e221ca216c2f53810085632.jpg,1,Counterfeit five hundred peso,500,0.9714084267616272,0.0
+coun500f-f63_jpg.rf.b3193b4c3e4a6d21ac46eb8a4afa20ce.jpg,1,Counterfeit five hundred peso,500,0.9717478156089783,0.0
+coun500f-f68_jpg.rf.8dca21c9f3b618477bff360a0b6d3785.jpg,1,Counterfeit five hundred peso,500,0.9714765548706055,0.0
+coun500f-f74_jpg.rf.07c2d2591c7ba2f84b2792db9e697b8a.jpg,1,Counterfeit five hundred peso,500,0.9714179635047913,0.0
+coun500f-f81_jpg.rf.06ccfcda1a70bfd5fd904c9f3a7fca62.jpg,1,Counterfeit five hundred peso,500,0.970858633518219,0.0
+coun500f-f8_jpg.rf.afd51e8f6822a4e5ded5dfe143ab8bfb.jpg,1,Counterfeit five hundred peso,500,0.9711744785308838,0.0
+coun500f-f90_jpg.rf.14c142d2071b8155ffac71538674fd85.jpg,1,Counterfeit five hundred peso,500,0.9710147380828857,0.0
+coun500f-f93_jpg.rf.dc5a24584ef77544fae4f468765f95ba.jpg,1,Counterfeit five hundred peso,500,0.9712023735046387,0.0
+coun500f-f97_jpg.rf.d760ca96c7474fe29e46a34e0edd12c6.jpg,1,Counterfeit five hundred peso,500,0.9708721041679382,0.0
+coun50b-f100_jpg.rf.88b6aa2d14f7e0f291d3d246cb38bf83.jpg,1,Counterfeit fifty peso,50,0.9744745492935181,0.0024322187528014183
+coun50b-f10_jpg.rf.a15434567b208b1865856d9dcdffc5a8.jpg,1,Counterfeit fifty peso,50,0.9752975106239319,0.0020807140972465277
+coun50b-f12_jpg.rf.afdae3381f8752b95a9083b2c9c8c2a5.jpg,1,Counterfeit fifty peso,50,0.9750067591667175,0.002252771984785795
+coun50b-f16_jpg.rf.c14702e12a60a9f73cc54865204d462b.jpg,1,Counterfeit fifty peso,50,0.9743010401725769,0.001822458696551621
+coun50b-f17_jpg.rf.69c126f8fe7a55fac64d6cb6ec6746e5.jpg,1,Counterfeit fifty peso,50,0.9741186499595642,0.0023194365203380585
+coun50b-f23_jpg.rf.32f7996896dc39c457c7ee19c726d973.jpg,1,Counterfeit fifty peso,50,0.9750540256500244,0.00220744451507926
+coun50b-f28_jpg.rf.6d22a78c09c31ecba86ad1f4531a8846.jpg,1,Counterfeit fifty peso,50,0.9746692776679993,0.002371782436966896
+coun50b-f32_jpg.rf.84f3516d32802aed533a09d25757f725.jpg,1,Counterfeit fifty peso,50,0.9749430418014526,0.0019974587485194206
+coun50b-f3_jpg.rf.cd280a31a1802f8d23e2560b9b065d4f.jpg,1,Counterfeit fifty peso,50,0.9744815230369568,0.001976792700588703
+coun50b-f40_jpg.rf.608f4a6e925478e4e0b8a55fcd3060d7.jpg,1,Counterfeit fifty peso,50,0.9737266302108765,0.0013059760676696897
+coun50b-f47_jpg.rf.989588ed22841e8cf3834d82746190e0.jpg,1,Counterfeit fifty peso,50,0.9745680093765259,0.0017326765228062868
+coun50b-f49_jpg.rf.1593180251fb5f0502c12679dd5dd33c.jpg,1,Counterfeit fifty peso,50,0.9743982553482056,0.0015357623342424631
+coun50b-f53_jpg.rf.496b6acd25c39e38da9150ff97cf00ec.jpg,1,Counterfeit fifty peso,50,0.9740638732910156,0.002717016963288188
+coun50b-f55_jpg.rf.c039c3429b9852002fc13f1e5a2cdb63.jpg,1,Counterfeit fifty peso,50,0.9761877655982971,0.0020418530330061913
+coun50b-f72_jpg.rf.0e3a0146a6901e9f825c8cb881af701b.jpg,1,Counterfeit fifty peso,50,0.97481369972229,0.0014351815916597843
+coun50b-f88_jpg.rf.908ea0087f8f69062699b0b70ed833f3.jpg,1,Counterfeit fifty peso,50,0.9748390316963196,0.0018225229578092694
+coun50b-f92_jpg.rf.9575ef1badc037f7817669bcf9b4928d.jpg,1,Counterfeit fifty peso,50,0.973975658416748,0.0017490459140390158
+coun50b-f93_jpg.rf.4d706ede84edb02ea70f74f3119ec8ef.jpg,1,Counterfeit fifty peso,50,0.9741352796554565,0.0021507148630917072
+coun50b-f99_jpg.rf.ea1f25febf9464dbe75ed73b79fa42e8.jpg,1,Counterfeit fifty peso,50,0.9748948812484741,0.001498368103057146
+coun50b-f9_jpg.rf.8b4457574f8681a45883a2e62c3996ac.jpg,1,Counterfeit fifty peso,50,0.9738965034484863,0.0023525545839220285
+coun50f-f14_jpg.rf.6526a969ee3c979ca4b387517d92e750.jpg,1,Counterfeit fifty peso,50,0.9748866558074951,0.0
+coun50f-f20_jpg.rf.3b55dded062213b64c6b83527418dabc.jpg,1,Counterfeit fifty peso,50,0.9751230478286743,0.0
+coun50f-f22_jpg.rf.240db881d2190c0534914eca4549e437.jpg,1,Counterfeit fifty peso,50,0.974515974521637,0.0
+coun50f-f28_jpg.rf.ade00edf73328ca800c13756ab612f82.jpg,1,Counterfeit fifty peso,50,0.9744320511817932,0.0
+coun50f-f29_jpg.rf.42ae0c6d3526aa2a4654dbd5667b60d7.jpg,1,Counterfeit fifty peso,50,0.9743015766143799,0.0
+coun50f-f30_jpg.rf.b85765a954c655a56d6b4eb0e0f7f3dc.jpg,1,Counterfeit fifty peso,50,0.97479248046875,0.0
+coun50f-f33_jpg.rf.5507c0a3f3102d541708e1dd6c007cd8.jpg,1,Counterfeit fifty peso,50,0.9750692844390869,0.0
+coun50f-f40_jpg.rf.2146855235efdece0d75b015c32ed1db.jpg,1,Counterfeit fifty peso,50,0.9748787879943848,0.0
+coun50f-f41_jpg.rf.9c90583626b969e35dd1887024cf3bad.jpg,1,Counterfeit fifty peso,50,0.9749760627746582,0.0
+coun50f-f43_jpg.rf.d86de26ce96a45c3fde90a010f2cd498.jpg,1,Counterfeit fifty peso,50,0.9750238656997681,0.0
+coun50f-f47_jpg.rf.4656f93a6ffa13ff106d2d33e13ebeac.jpg,1,Counterfeit fifty peso,50,0.9746863842010498,0.0
+coun50f-f52_jpg.rf.bb98bbce7353bb04c1cf26a2c4dfc676.jpg,1,Counterfeit fifty peso,50,0.9746289253234863,0.0
+coun50f-f53_jpg.rf.43f9787fe68cd77413cb46d7e81932a4.jpg,1,Counterfeit fifty peso,50,0.9747714400291443,0.0
+coun50f-f54_jpg.rf.2b24290871f9bdbf61232c4f414c99ed.jpg,1,Counterfeit fifty peso,50,0.9741750955581665,0.0
+coun50f-f59_jpg.rf.5c7c7308e339ed0bd0b213b77bc373af.jpg,1,Counterfeit fifty peso,50,0.9744669198989868,0.0
+coun50f-f71_jpg.rf.7e68574e26d757a33a3c29ea0769e745.jpg,1,Counterfeit fifty peso,50,0.9749108552932739,0.0
+coun50f-f73_jpg.rf.70cf2b94b237763ebae0b2541c3ba2f1.jpg,1,Counterfeit fifty peso,50,0.9747694134712219,0.0
+coun50f-f80_jpg.rf.6cdd3314f2d0afe4730513e78581401e.jpg,1,Counterfeit fifty peso,50,0.9747188687324524,0.0
+coun50f-f83_jpg.rf.783d28bb439e47c6120fdea62a6ec9e2.jpg,1,Counterfeit fifty peso,50,0.9750480055809021,0.0
+coun50f-f96_jpg.rf.3b17f7ed784de149688eb1e5dfcb070f.jpg,1,Counterfeit fifty peso,50,0.9746406078338623,0.0
+gen1000b-f15_jpg.rf.c790cc8f03a44c76129d285f28de8625.jpg,0,Genuine one thousand peso,1000,0.0,0.9819876551628113
+gen1000b-f27_jpg.rf.46ebe8464d21672ab84d59c65074a31d.jpg,0,Genuine one thousand peso,1000,0.0,0.981960654258728
+gen1000b-f3_jpg.rf.2bb6a953de1ab45f38cf3b74e79e802f.jpg,0,Genuine one thousand peso,1000,0.0,0.9820435047149658
+gen1000b-f42_jpg.rf.56b2c9fca10f207ef4698ce90e2ff744.jpg,0,Genuine one thousand peso,1000,0.0,0.9824137687683105
+gen1000b-f46_jpg.rf.e3745f1741502b32636825b0ea992ece.jpg,0,Genuine one thousand peso,1000,0.0,0.9821715354919434
+gen1000b-f48_jpg.rf.a1b438d3096cae2ec71a1ab46ef457d1.jpg,0,Genuine one thousand peso,1000,0.0,0.9826823472976685
+gen1000b-f51_jpg.rf.3039d5886af028124806faa5204f67d7.jpg,0,Genuine one thousand peso,1000,0.0,0.9821526408195496
+gen1000b-f56_jpg.rf.009eb40a2259693b96b7682d8131a2a1.jpg,0,Genuine one thousand peso,1000,0.0,0.9826005101203918
+gen1000b-f63_jpg.rf.05fb04eb14ee9aee225068769c7b3686.jpg,0,Genuine one thousand peso,1000,0.0,0.9823614954948425
+gen1000b-f64_jpg.rf.99d6e842cfce19c514c78922d6ef90e4.jpg,0,Genuine one thousand peso,1000,0.0,0.9826086759567261
+gen1000b-f70_jpg.rf.78053ac8e99c59eef2347ee070b70360.jpg,0,Genuine one thousand peso,1000,0.0,0.982853353023529
+gen1000b-f71_jpg.rf.2bc8dfe6c31af96277940982f4c4080d.jpg,0,Genuine one thousand peso,1000,0.0,0.9825679659843445
+gen1000b-f75_jpg.rf.fee51d203f3f907b702922c51d4f2af8.jpg,0,Genuine one thousand peso,1000,0.0,0.9821875095367432
+gen1000b-f76_jpg.rf.36b2df397c15028effa7fb19da965b85.jpg,0,Genuine one thousand peso,1000,0.0,0.9822227954864502
+gen1000b-f79_jpg.rf.56725811fcc6337173834c8da667a426.jpg,0,Genuine one thousand peso,1000,0.0,0.9824225902557373
+gen1000b-f7_jpg.rf.2b748f58a4f11eec69d990e0f9169834.jpg,0,Genuine one thousand peso,1000,0.0,0.9823322892189026
+gen1000b-f83_jpg.rf.b8e46037e41e3555b3bf8f16346396d7.jpg,0,Genuine one thousand peso,1000,0.0,0.9828962683677673
+gen1000b-f85_jpg.rf.53b04a4885b2955c407c7b1ca0b0e7bc.jpg,0,Genuine one thousand peso,1000,0.0,0.9826532602310181
+gen1000b-f92_jpg.rf.8d786568327fe9de9740c5fb76bf199e.jpg,0,Genuine one thousand peso,1000,0.0,0.9825091361999512
+gen1000b-f95_jpg.rf.70acc3ad4a417fee48d89b7eda74afeb.jpg,0,Genuine one thousand peso,1000,0.0,0.9827955365180969
+gen1000f-f10_jpg.rf.789c7906199291c1677f193c9eb497a5.jpg,0,Genuine one thousand peso,1000,0.0,0.9861677289009094
+gen1000f-f13_jpg.rf.a23cde1597ca15e145e6ad8c0c30a8ee.jpg,0,Genuine one thousand peso,1000,0.0,0.9862280488014221
+gen1000f-f27_jpg.rf.57474bc26fa95a4dedd581eae9c968bf.jpg,0,Genuine one thousand peso,1000,0.0,0.9860643148422241
+gen1000f-f2_jpg.rf.e3497735f4d6bea5dcce5460e9478878.jpg,0,Genuine one thousand peso,1000,0.0,0.9864527583122253
+gen1000f-f33_jpg.rf.fa8692b0d06470e10ca5206d943b3638.jpg,0,Genuine one thousand peso,1000,0.0,0.9861037135124207
+gen1000f-f43_jpg.rf.7f0d38cb7a6aa7b7fdb3422a47037147.jpg,0,Genuine one thousand peso,1000,0.0,0.9862318634986877
+gen1000f-f46_jpg.rf.6cbeccc5d900de47bab10b41b63088c2.jpg,0,Genuine one thousand peso,1000,0.0,0.9862745404243469
+gen1000f-f50_jpg.rf.adb874528ca62a506ea84926584525f6.jpg,0,Genuine one thousand peso,1000,0.0,0.9859545826911926
+gen1000f-f57_jpg.rf.e15c653cc9c36a5cbac5953484fba907.jpg,0,Genuine one thousand peso,1000,0.0,0.9860000014305115
+gen1000f-f5_jpg.rf.0d8d220594670a864c68a955d6300b72.jpg,0,Genuine one thousand peso,1000,0.0,0.9859753251075745
+gen1000f-f6_jpg.rf.5ea330e71f5494bd2d2ecbc18ef0c8b2.jpg,0,Genuine one thousand peso,1000,0.0,0.9861491918563843
+gen1000f-f70_jpg.rf.291809b448e2cdcc244c347e71d8ff7a.jpg,0,Genuine one thousand peso,1000,0.0,0.986179769039154
+gen1000f-f71_jpg.rf.19f8a161513e1c3d864184966548f581.jpg,0,Genuine one thousand peso,1000,0.0,0.9858424067497253
+gen1000f-f72_jpg.rf.e1f05b4e77bfc6cce703e831ae076fdf.jpg,0,Genuine one thousand peso,1000,0.0,0.9861361980438232
+gen1000f-f81_jpg.rf.fe95bf3b1ab208cbd22669572304797a.jpg,0,Genuine one thousand peso,1000,0.0,0.9862046241760254
+gen1000f-f83_jpg.rf.3366893493d69cf80093a2730ab8ffa6.jpg,0,Genuine one thousand peso,1000,0.0,0.9859350919723511
+gen1000f-f86_jpg.rf.e956e624f2712d4c430bbd83f427e218.jpg,0,Genuine one thousand peso,1000,0.0,0.9862605929374695
+gen1000f-f93_jpg.rf.6235bb614ff1b3478f1acc4c4c1937a6.jpg,0,Genuine one thousand peso,1000,0.0,0.9861727356910706
+gen1000f-f94_jpg.rf.95c967b370412080a990f41837253049.jpg,0,Genuine one thousand peso,1000,0.0,0.98619544506073
+gen1000f-f99_jpg.rf.b4b2ee08dd9a09223322f706b300a69a.jpg,0,Genuine one thousand peso,1000,0.0,0.9856897592544556
+gen200b-f16_jpg.rf.fb7676c3afb84dc9aa46f44af0bbcb11.jpg,0,Genuine two hundred peso,200,0.0,0.9861657619476318
+gen200b-f35_jpg.rf.d527fc6caa8188baac947925b23bd9b1.jpg,0,Genuine two hundred peso,200,0.0,0.9860892295837402
+gen200b-f38_jpg.rf.a3d490d6ed5eae28c85ff2a3d121f051.jpg,0,Genuine two hundred peso,200,0.0,0.98661208152771
+gen200b-f44_jpg.rf.051d26b6a07a133a035af2a417b337eb.jpg,0,Genuine two hundred peso,200,0.0,0.9854743480682373
+gen200b-f46_jpg.rf.29a3a44755dcb437dfd144a0fef3b9f4.jpg,0,Genuine two hundred peso,200,0.0,0.9859976768493652
+gen200b-f48_jpg.rf.d7481c0a02de32505eab57619cbb3b7d.jpg,0,Genuine two hundred peso,200,0.0,0.9862024188041687
+gen200b-f4_jpg.rf.b12d682841a64517c07b339bd40b3524.jpg,0,Genuine two hundred peso,200,0.0,0.9862573742866516
+gen200b-f51_jpg.rf.98c2006ff023c9393c1b58fdbd2796c9.jpg,0,Genuine two hundred peso,200,0.0,0.9863807559013367
+gen200b-f52_jpg.rf.33a0519f67ed4744daf511a925f99d74.jpg,0,Genuine two hundred peso,200,0.0,0.9859031438827515
+gen200b-f5_jpg.rf.8aa8dc46e82801d194a03e92e088fee2.jpg,0,Genuine two hundred peso,200,0.0,0.9859791398048401
+gen200b-f62_jpg.rf.31de5d5eda6cac29cdc8c93c37a849fc.jpg,0,Genuine two hundred peso,200,0.0,0.9864917397499084
+gen200b-f64_jpg.rf.842ce01157d60ee83865c38920a7e311.jpg,0,Genuine two hundred peso,200,0.0,0.9852772355079651
+gen200b-f65_jpg.rf.02cd92a6a0594702ffaca309be1263c0.jpg,0,Genuine two hundred peso,200,0.0,0.9864774942398071
+gen200b-f66_jpg.rf.2986708e895d8a8604ca5bc157934929.jpg,0,Genuine two hundred peso,200,0.0,0.9861114025115967
+gen200b-f67_jpg.rf.c7201b62b60fc99cca3f4cbd9f98eaa0.jpg,0,Genuine two hundred peso,200,0.0,0.9858739376068115
+gen200b-f72_jpg.rf.395533cfd8f1176e17ea85092998d9c5.jpg,0,Genuine two hundred peso,200,0.0,0.9858564138412476
+gen200b-f76_jpg.rf.f1886746680b978caa5fec8e2ca4d8eb.jpg,0,Genuine two hundred peso,200,0.0,0.9858931303024292
+gen200b-f7_jpg.rf.281aa722a3ece95c06e685e6581d0e71.jpg,0,Genuine two hundred peso,200,0.0,0.9857972264289856
+gen200b-f92_jpg.rf.35f985b92d4cccd314cccdcbbfb06812.jpg,0,Genuine two hundred peso,200,0.0,0.9862772822380066
+gen200b-f9_jpg.rf.d2805b4891e1cec6e005767ba24c1840.jpg,0,Genuine two hundred peso,200,0.0,0.9863317012786865
+gen200f-f10_jpg.rf.8a7cef4a842a6684a21b7e17cb36fba4.jpg,0,Genuine two hundred peso,200,0.001280132564716041,0.987525463104248
+gen200f-f14_jpg.rf.a25d42bfad7ce121871a386e1bfa077c.jpg,0,Genuine two hundred peso,200,0.0011611859081313014,0.9875152111053467
+gen200f-f15_jpg.rf.4091764386978ec740ecbaf294542d48.jpg,0,Genuine two hundred peso,200,0.00110198266338557,0.9871538281440735
+gen200f-f30_jpg.rf.736bb4ca78e9bcd13955fdc468813069.jpg,0,Genuine two hundred peso,200,0.001126584131270647,0.9871976971626282
+gen200f-f31_jpg.rf.684bb4a1144a4d358009e923db2755f2.jpg,0,Genuine two hundred peso,200,0.0012636682949960232,0.9875713586807251
+gen200f-f32_jpg.rf.4b78441d602ebd114c6eae80292ed42b.jpg,0,Genuine two hundred peso,200,0.0010290389182046056,0.987007200717926
+gen200f-f4_jpg.rf.c61ab8a8d391e1efee74e2f82ad3e815.jpg,0,Genuine two hundred peso,200,0.0,0.9875428676605225
+gen200f-f50_jpg.rf.decb497ebc5902ffa3aa2b23323c92b3.jpg,0,Genuine two hundred peso,200,0.0013913917355239391,0.9872937202453613
+gen200f-f53_jpg.rf.750d4dc488245576e2e3b270a779a6ce.jpg,0,Genuine two hundred peso,200,0.0012822906719520688,0.9875094294548035
+gen200f-f57_jpg.rf.842139e7450a6ef80da343153b6496a1.jpg,0,Genuine two hundred peso,200,0.0014531672932207584,0.987441897392273
+gen200f-f59_jpg.rf.a6caead5c1e0760caabcaf56bd43a491.jpg,0,Genuine two hundred peso,200,0.001073170336894691,0.9873499274253845
+gen200f-f63_jpg.rf.1b41acf2b127910691243027fe4111e6.jpg,0,Genuine two hundred peso,200,0.0014308030949905515,0.9874732494354248
+gen200f-f66_jpg.rf.063aafead3a4941417afb8ab238559da.jpg,0,Genuine two hundred peso,200,0.00130440853536129,0.9874399900436401
+gen200f-f76_jpg.rf.ecadde6f2909bc71d10c267865af41bd.jpg,0,Genuine two hundred peso,200,0.0014105653390288353,0.9874013066291809
+gen200f-f7_jpg.rf.f2ec898b99e089ab92a62c758111e1ff.jpg,0,Genuine two hundred peso,200,0.0011248623486608267,0.9877915382385254
+gen200f-f81_jpg.rf.5aba23f26954a5aaca6cd791324c7977.jpg,0,Genuine two hundred peso,200,0.0011575822718441486,0.9874639511108398
+gen200f-f83_jpg.rf.8cf2e7dbba73ecc9f74d160ea092f569.jpg,0,Genuine two hundred peso,200,0.0013088836567476392,0.9874370098114014
+gen200f-f8_jpg.rf.d2c382b1e35b39e4021cbc99a8a0f8a7.jpg,0,Genuine two hundred peso,200,0.0011095284717157483,0.9869110584259033
+gen200f-f90_jpg.rf.7b2a3c24726eee11daa5621ac5f19793.jpg,0,Genuine two hundred peso,200,0.001144164358265698,0.9873492121696472
+gen200f-f94_jpg.rf.94e123681f7f48551e8eb865ce441c3c.jpg,0,Genuine two hundred peso,200,0.0012585375225171447,0.9875398874282837
+gen20b-f12_jpg.rf.d8c6b4ee2631b2f96df384fddbe3d8ad.jpg,0,Genuine twenty peso,20,0.0,0.9670103788375854
+gen20b-f16_jpg.rf.2e30cd8b8542b0532e981d5b84936983.jpg,0,Genuine twenty peso,20,0.0,0.9670670032501221
+gen20b-f17_jpg.rf.9eafb4fa300539176296d2b476efb2a9.jpg,0,Genuine twenty peso,20,0.0,0.9660349488258362
+gen20b-f19_jpg.rf.141ad84cb85a48206e5c7436f4bf364a.jpg,0,Genuine twenty peso,20,0.0,0.9665865898132324
+gen20b-f21_jpg.rf.78509f3731ac62ed24416ba4b1664d6d.jpg,0,Genuine twenty peso,20,0.0,0.9669103622436523
+gen20b-f25_jpg.rf.c4e158343890f8bde87e21245404a3c8.jpg,0,Genuine twenty peso,20,0.0,0.9671972393989563
+gen20b-f26_jpg.rf.f889d93559d2183e2d031803c8c01a35.jpg,0,Genuine twenty peso,20,0.0,0.9678425788879395
+gen20b-f45_jpg.rf.33ef83b570ba4d425da273fe0a7b1da6.jpg,0,Genuine twenty peso,20,0.0,0.9670374393463135
+gen20b-f50_jpg.rf.af5ed00f6c3180013961a7041bca0b70.jpg,0,Genuine twenty peso,20,0.0,0.9673516154289246
+gen20b-f53_jpg.rf.139fec656ebdc14a765a36d741217625.jpg,0,Genuine twenty peso,20,0.0,0.9671662449836731
+gen20b-f54_jpg.rf.6ee0c0a6deeade7dc1a82255bcc12bde.jpg,0,Genuine twenty peso,20,0.0,0.9676171541213989
+gen20b-f57_jpg.rf.a8c31b0ad1fddaab856dee0f26e38fd8.jpg,0,Genuine twenty peso,20,0.0,0.9678041338920593
+gen20b-f68_jpg.rf.8c6a7ff923a6a88384cec0a41b3d2e70.jpg,0,Genuine twenty peso,20,0.0,0.9671334624290466
+gen20b-f69_jpg.rf.270540682f19167b2f84189dd01c9562.jpg,0,Genuine twenty peso,20,0.0,0.9672903418540955
+gen20b-f70_jpg.rf.426c5400bc1e9ad99b4ebf15f47a3fe4.jpg,0,Genuine twenty peso,20,0.0,0.9671673774719238
+gen20b-f76_jpg.rf.8262c5d1c0fd75b8d7f36d92ac0ed5bb.jpg,0,Genuine twenty peso,20,0.0,0.9675636887550354
+gen20b-f77_jpg.rf.1b357c5056e4725dfb55eb30e38e1a29.jpg,0,Genuine twenty peso,20,0.0,0.9673985838890076
+gen20b-f79_jpg.rf.f02ea68ba60268df1760728e6a474037.jpg,0,Genuine twenty peso,20,0.0,0.9682281613349915
+gen20b-f81_jpg.rf.2bfc72a9a76ac7882e4b834b31021a7c.jpg,0,Genuine twenty peso,20,0.0,0.967719554901123
+gen20b-f87_jpg.rf.14a7ba95a4e76b112ce13818a37157ce.jpg,0,Genuine twenty peso,20,0.0,0.9668905735015869
+gen20f-f12_jpg.rf.0c6e0ab36215ecf197b2eb39cfe4d62e.jpg,0,Genuine twenty peso,20,0.0,0.9738351106643677
+gen20f-f16_jpg.rf.2ca263ce29ebc04efc2f093ed33fbd41.jpg,0,Genuine twenty peso,20,0.0,0.9744980931282043
+gen20f-f25_jpg.rf.b22d461cbd325c87d65b1bfd7bcc818a.jpg,0,Genuine twenty peso,20,0.0,0.9737996459007263
+gen20f-f26_jpg.rf.dc017f5602e1ac432a0d9f545cf76169.jpg,0,Genuine twenty peso,20,0.0,0.9734960794448853
+gen20f-f30_jpg.rf.469ce58f9fcc5e14b0c4d61f54d126e9.jpg,0,Genuine twenty peso,20,0.0,0.9729021191596985
+gen20f-f35_jpg.rf.c2af2849fe0a70242347ba5736bba295.jpg,0,Genuine twenty peso,20,0.0,0.9725249409675598
+gen20f-f43_jpg.rf.91eb943e51a97e091b869e4fdd10b14e.jpg,0,Genuine twenty peso,20,0.0,0.9736893177032471
+gen20f-f4_jpg.rf.764a4df90998b28525e9b3b911eaf05f.jpg,0,Genuine twenty peso,20,0.0,0.9735465049743652
+gen20f-f53_jpg.rf.7a91f91e2daddda2a6896c4660d2cbb3.jpg,0,Genuine twenty peso,20,0.0,0.9737769365310669
+gen20f-f57_jpg.rf.6a9d6c2530a5da55f81129831bc2d218.jpg,0,Genuine twenty peso,20,0.0,0.9722850322723389
+gen20f-f5_jpg.rf.ec68f81ed7ca24fd1c428265d8b9cc97.jpg,0,Genuine twenty peso,20,0.0,0.973160445690155
+gen20f-f64_jpg.rf.05634dd1f4240d72b81dd6103af8f0ac.jpg,0,Genuine twenty peso,20,0.0,0.9724084734916687
+gen20f-f70_jpg.rf.2afcaab24ea19add67e8563cb92a3fe1.jpg,0,Genuine twenty peso,20,0.0,0.9723248481750488
+gen20f-f79_jpg.rf.bbc871733f29ef6f0b23b6c7967151ce.jpg,0,Genuine twenty peso,20,0.0,0.9736132621765137
+gen20f-f7_jpg.rf.85433d4f70fe2c76964af870c0823214.jpg,0,Genuine twenty peso,20,0.0,0.9734694361686707
+gen20f-f81_jpg.rf.71068ca288ea48adf17101ff7e881757.jpg,0,Genuine twenty peso,20,0.0,0.9733491539955139
+gen20f-f83_jpg.rf.84814b94930738434d0bd0040ad77d33.jpg,0,Genuine twenty peso,20,0.0,0.9733825325965881
+gen20f-f84_jpg.rf.82fe32debb735227f7b639340f2dbe3e.jpg,0,Genuine twenty peso,20,0.0,0.9729814529418945
+gen20f-f91_jpg.rf.85d38ee39bab6b6e28c70163f498acc1.jpg,0,Genuine twenty peso,20,0.0,0.9728649854660034
+gen20f-f93_jpg.rf.0c72a02713cdc2395eb19c06685c6782.jpg,0,Genuine twenty peso,20,0.0,0.972580075263977
+gen500b-f21_jpg.rf.78fcf8da5a16714b8a87fa48ec33a7b6.jpg,0,Genuine five hundred peso,500,0.0,0.9779241681098938
+gen500b-f23_jpg.rf.bdf93144a52f249d954d8d600f2a302a.jpg,0,Genuine five hundred peso,500,0.0,0.9775581359863281
+gen500b-f26_jpg.rf.e7882b34390aeb8612c3cada1cc43839.jpg,0,Genuine five hundred peso,500,0.0,0.9774167537689209
+gen500b-f28_jpg.rf.5d260ba22e18a8548e198528f7c8d0b6.jpg,0,Genuine five hundred peso,500,0.0,0.9772531390190125
+gen500b-f39_jpg.rf.534b8bbc1e95c284d35cf4feb7bfb53b.jpg,0,Genuine five hundred peso,500,0.0,0.9777935147285461
+gen500b-f42_jpg.rf.9b211c6ea0ed373bf8ce7aee586a3b51.jpg,0,Genuine five hundred peso,500,0.0,0.9772928953170776
+gen500b-f50_jpg.rf.544cabb398b052009bef5dfff21f7015.jpg,0,Genuine five hundred peso,500,0.0,0.9776841402053833
+gen500b-f54_jpg.rf.b9cb8b4cda9710e0f774cf0116961502.jpg,0,Genuine five hundred peso,500,0.0,0.9777592420578003
+gen500b-f60_jpg.rf.f2f6d2e7b6be29757281f62290d86c4d.jpg,0,Genuine five hundred peso,500,0.0,0.977573037147522
+gen500b-f67_jpg.rf.9bc8e1c7879547d2b839d85505ac0350.jpg,0,Genuine five hundred peso,500,0.0,0.9774510264396667
+gen500b-f68_jpg.rf.0c0bffd0c7de8ea8761eec2afcdcda37.jpg,0,Genuine five hundred peso,500,0.0,0.9774430990219116
+gen500b-f6_jpg.rf.c9defea6c2f8791351d02466182abb4f.jpg,0,Genuine five hundred peso,500,0.0,0.9778797030448914
+gen500b-f74_jpg.rf.ceea09ec6f9abf3848b1c091a6c1812f.jpg,0,Genuine five hundred peso,500,0.0,0.9775505661964417
+gen500b-f78_jpg.rf.0ee621f7e883fe7b1ee72f5ac35a6a17.jpg,0,Genuine five hundred peso,500,0.0,0.9781234860420227
+gen500b-f79_jpg.rf.28a398bb29eb843bd97a2dc91989d911.jpg,0,Genuine five hundred peso,500,0.0,0.977554440498352
+gen500b-f82_jpg.rf.2c41c99927808745b2d9259057c6427f.jpg,0,Genuine five hundred peso,500,0.0,0.9775405526161194
+gen500b-f90_jpg.rf.5b29eb4f931132038d10375f3b00d69b.jpg,0,Genuine five hundred peso,500,0.0,0.9779282808303833
+gen500b-f92_jpg.rf.2ec1820d9526193ed05843600a1cd19f.jpg,0,Genuine five hundred peso,500,0.0,0.9773755073547363
+gen500b-f94_jpg.rf.9bb5c405ec236d83bdfa3a676d7a0e66.jpg,0,Genuine five hundred peso,500,0.0,0.9774362444877625
+gen500b-f98_jpg.rf.01850597dd42cd7bf169cbda2a42dfd6.jpg,0,Genuine five hundred peso,500,0.0,0.9773133397102356
+gen500f-f100_jpg.rf.4908d8503c73810000c93705122165fb.jpg,0,Genuine five hundred peso,500,0.0,0.9828815460205078
+gen500f-f17_jpg.rf.30841e37c170861af2e9669f0d41440d.jpg,0,Genuine five hundred peso,500,0.0,0.9827378392219543
+gen500f-f18_jpg.rf.b4f4aba47f28651b3d91d24972ebd1ad.jpg,0,Genuine five hundred peso,500,0.0,0.9827949404716492
+gen500f-f22_jpg.rf.60ef06905417a9c4afd5acf865cb8b5c.jpg,0,Genuine five hundred peso,500,0.0,0.9824671149253845
+gen500f-f2_jpg.rf.801676ade6ca9d325b7d706b7a328293.jpg,0,Genuine five hundred peso,500,0.0,0.9826108813285828
+gen500f-f30_jpg.rf.8ef81429e7fa2367a9b8d23882b1fb64.jpg,0,Genuine five hundred peso,500,0.0,0.9823768138885498
+gen500f-f35_jpg.rf.a975f7305e26641d67b0eb8b79c6f639.jpg,0,Genuine five hundred peso,500,0.0,0.982742428779602
+gen500f-f40_jpg.rf.9b250a42af68a1d954a4fec65669e716.jpg,0,Genuine five hundred peso,500,0.0,0.982441246509552
+gen500f-f44_jpg.rf.5c183ab2672f0771b3c05cc5592dd7ee.jpg,0,Genuine five hundred peso,500,0.0,0.98265540599823
+gen500f-f56_jpg.rf.40414824fc0b5b83dfc3f825350b8ff0.jpg,0,Genuine five hundred peso,500,0.0,0.982660710811615
+gen500f-f63_jpg.rf.b326987232b8807773f0bedb25787d51.jpg,0,Genuine five hundred peso,500,0.0,0.9826056957244873
+gen500f-f65_jpg.rf.71a0765198a42255542229b1b7dc1789.jpg,0,Genuine five hundred peso,500,0.0,0.9826689958572388
+gen500f-f66_jpg.rf.90c33e623184fa7cf446908bea8401f1.jpg,0,Genuine five hundred peso,500,0.0,0.9827473759651184
+gen500f-f76_jpg.rf.7183d1b8e7624d874e0eb09ed2199651.jpg,0,Genuine five hundred peso,500,0.0,0.9826029539108276
+gen500f-f77_jpg.rf.e0751941827a8527ef0e3be298df4fa4.jpg,0,Genuine five hundred peso,500,0.0,0.9824778437614441
+gen500f-f85_jpg.rf.a1b6fa467b7407c9c71a00487126a8e0.jpg,0,Genuine five hundred peso,500,0.0,0.9828206300735474
+gen500f-f8_jpg.rf.2c8cb101ba3c3cba97cee5805deea1b3.jpg,0,Genuine five hundred peso,500,0.0,0.9823715090751648
+gen500f-f90_jpg.rf.fd4e31ca1542739c2d202a23c8c301eb.jpg,0,Genuine five hundred peso,500,0.0,0.982648491859436
+gen500f-f97_jpg.rf.a381ca8b2d41272236b2e5f89973b270.jpg,0,Genuine five hundred peso,500,0.0,0.9824062585830688
+gen500f-f9_jpg.rf.99ec69bf066f9c64d826ce73fc362bf1.jpg,0,Genuine five hundred peso,500,0.0,0.9824848771095276
+gen50b-f15_jpg.rf.66deebe18adbbe093baea70219dfe4bb.jpg,0,Genuine fifty peso,50,0.0,0.9614851474761963
+gen50b-f20_jpg.rf.c829264649a1d232a59674416f376345.jpg,0,Genuine fifty peso,50,0.0,0.9607744216918945
+gen50b-f21_jpg.rf.1a0bcffd5291b79e92993f6db6411a29.jpg,0,Genuine fifty peso,50,0.0,0.9611244797706604
+gen50b-f22_jpg.rf.7a9e9a5d222d7744c1404192795496de.jpg,0,Genuine fifty peso,50,0.0,0.960832953453064
+gen50b-f32_jpg.rf.5252aa1d39dff3ca065a8381fc221e67.jpg,0,Genuine fifty peso,50,0.0,0.9601627588272095
+gen50b-f38_jpg.rf.809757e657f4e71652a5cc297579d263.jpg,0,Genuine fifty peso,50,0.0,0.9605408906936646
+gen50b-f40_jpg.rf.4c57094e01da56564b27f047c3e37bfa.jpg,0,Genuine fifty peso,50,0.0,0.9601929783821106
+gen50b-f42_jpg.rf.94ab55e45275175d66750fa21b0a91ca.jpg,0,Genuine fifty peso,50,0.0,0.9603621959686279
+gen50b-f51_jpg.rf.30277c3565a0a2304e53a1da3a507bc0.jpg,0,Genuine fifty peso,50,0.0,0.9605889320373535
+gen50b-f53_jpg.rf.ab6afa934bbee6a1506e34861b259a0d.jpg,0,Genuine fifty peso,50,0.0,0.9607024788856506
+gen50b-f58_jpg.rf.d4b1a2ea793aff2d9c85d7d46d9812ac.jpg,0,Genuine fifty peso,50,0.0,0.9609978795051575
+gen50b-f59_jpg.rf.77c0a4b0fe646dbd01dd63489876d66f.jpg,0,Genuine fifty peso,50,0.0,0.9603816270828247
+gen50b-f65_jpg.rf.dbec8bf1f223cd8af48d86cb89d50499.jpg,0,Genuine fifty peso,50,0.0,0.9598597884178162
+gen50b-f69_jpg.rf.9b32ab9f6b2ee985cdb66e4425f3d022.jpg,0,Genuine fifty peso,50,0.0,0.9612165689468384
+gen50b-f70_jpg.rf.803b38c7f86fd1e157170c419cb2fc55.jpg,0,Genuine fifty peso,50,0.0,0.9604601263999939
+gen50b-f71_jpg.rf.ec3c822b928dc8833c377078b1a688de.jpg,0,Genuine fifty peso,50,0.0,0.9610796570777893
+gen50b-f74_jpg.rf.daf069be508790dbab8272270952bf34.jpg,0,Genuine fifty peso,50,0.0,0.9603688716888428
+gen50b-f81_jpg.rf.18f3db206f63c9799f3cf58b9d3b56ef.jpg,0,Genuine fifty peso,50,0.0,0.9610541462898254
+gen50b-f86_jpg.rf.23ce350bd2d877846a973be6d564e459.jpg,0,Genuine fifty peso,50,0.0,0.9609326720237732
+gen50b-f8_jpg.rf.1d751c70be49d3c4a78c9178f0c2fe62.jpg,0,Genuine fifty peso,50,0.0,0.9609183669090271
+gen50f-f12_jpg.rf.eaafba89412501c0ff0857fd9a1d2701.jpg,0,Genuine fifty peso,50,0.0,0.9613007307052612
+gen50f-f23_jpg.rf.2df9b05b0be93597ed5cee50d8a418f4.jpg,0,Genuine fifty peso,50,0.0,0.9604796171188354
+gen50f-f24_jpg.rf.d6521022d5c40aed549441af4c6e61a4.jpg,0,Genuine fifty peso,50,0.0,0.9602669477462769
+gen50f-f28_jpg.rf.9a36c0789326ae725904c99b78630c95.jpg,0,Genuine fifty peso,50,0.0,0.960727870464325
+gen50f-f2_jpg.rf.e19109624b336eaee40a30221fa58421.jpg,0,Genuine fifty peso,50,0.0,0.960701584815979
+gen50f-f3_jpg.rf.7744a783e36a487486cdbdc1245f5e1b.jpg,0,Genuine fifty peso,50,0.0,0.9602141976356506
+gen50f-f48_jpg.rf.103f4d4b2130ebd9e33078f527156935.jpg,0,Genuine fifty peso,50,0.0,0.9608988761901855
+gen50f-f54_jpg.rf.1660f949ee0bb7cd69829f4731c5f1f0.jpg,0,Genuine fifty peso,50,0.0,0.9601796865463257
+gen50f-f55_jpg.rf.35e482393e31434e7bc9dd2582a816b0.jpg,0,Genuine fifty peso,50,0.0,0.960372269153595
+gen50f-f58_jpg.rf.341dea87c19e03c66f23cd1ded49f336.jpg,0,Genuine fifty peso,50,0.0,0.9610499143600464
+gen50f-f59_jpg.rf.869880327cc9370846515b8665ef40d7.jpg,0,Genuine fifty peso,50,0.0,0.9608697295188904
+gen50f-f60_jpg.rf.a232f0bb472b48b349ffb77e1da11623.jpg,0,Genuine fifty peso,50,0.0,0.9605839848518372
+gen50f-f72_jpg.rf.2a6f8b2e9ba7655d26167dbba5162b4d.jpg,0,Genuine fifty peso,50,0.0,0.9600958228111267
+gen50f-f7_jpg.rf.527310ed2a37bcb51bedd7531ff6682b.jpg,0,Genuine fifty peso,50,0.0,0.9609528183937073
+gen50f-f80_jpg.rf.dbf4e30894627c5430391e66da4dd292.jpg,0,Genuine fifty peso,50,0.0,0.9603894352912903
+gen50f-f82_jpg.rf.82a42abfb08242bc766ea5c27f91a26e.jpg,0,Genuine fifty peso,50,0.0,0.9607789516448975
+gen50f-f84_jpg.rf.c9e59ad8f8959a9368402ca9a27634ed.jpg,0,Genuine fifty peso,50,0.0,0.9603568911552429
+gen50f-f89_jpg.rf.1aae43f3db35545c1f35223204e29d38.jpg,0,Genuine fifty peso,50,0.0,0.9602298140525818
+gen50f-f91_jpg.rf.ad70b7197186fe24b3413d3a7c05acde.jpg,0,Genuine fifty peso,50,0.0,0.9623026847839355
+gen50f-f97_jpg.rf.ed1ee76e7be2ed997677bfb8c4a3ee7f.jpg,0,Genuine fifty peso,50,0.0,0.9607105255126953

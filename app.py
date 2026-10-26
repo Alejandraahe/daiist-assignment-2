@@ -81,8 +81,10 @@ def policy_view(low, high, base_rate):
     }
     bar = go.Figure(go.Bar(x=list(alts), y=[v["cost_per_1000"] for v in alts.values()],
                            text=[f"€{v['cost_per_1000']:,.0f}" for v in alts.values()], textposition="outside"))
+    bar.update_traces(cliponaxis=False)
     bar.update_layout(title=f"Expected cost per 1,000 notes (base rate {base_rate:.1%})",
-                      yaxis_title="€ per 1,000 notes", height=330)
+                      yaxis_title="€ per 1,000 notes", height=330, margin=dict(t=70),
+                      yaxis_range=[0, 1.2 * max(v["cost_per_1000"] for v in alts.values())])
 
     md = (f"### Expected cost: **€{r['cost_per_1000']:,.1f} per 1,000 notes**\n"
           f"- Sent to a person: **{r['review_share']:.1%}** of notes → **{s['reviews_per_day']:,.0f}/day** "

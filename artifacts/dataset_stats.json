@@ -1,0 +1,131 @@
+{
+  "classes": {
+    "0": "Counterfeit fifty peso",
+    "1": "Counterfeit five hundred peso",
+    "2": "Counterfeit one hundred peso",
+    "3": "Counterfeit one thousand peso",
+    "4": "Counterfeit twenty peso",
+    "5": "Counterfeit two hundred peso",
+    "6": "Genuine fifty peso",
+    "7": "Genuine five hundred peso",
+    "8": "Genuine one thousand peso",
+    "9": "Genuine twenty peso",
+    "10": "Genuine two hundred peso",
+    "11": "counterfeit"
+  },
+  "splits": {
+    "train": {
+      "images": 1767,
+      "images_without_labels": 10,
+      "images_with_several_boxes": 0,
+      "images_with_fake": 1057,
+      "share_images_with_fake": 0.5981890209394454,
+      "instances_per_class": {
+        "Counterfeit fifty peso": 140,
+        "Counterfeit five hundred peso": 140,
+        "Counterfeit one hundred peso": 140,
+        "Counterfeit one thousand peso": 140,
+        "Counterfeit twenty peso": 140,
+        "Counterfeit two hundred peso": 140,
+        "Genuine fifty peso": 140,
+        "Genuine five hundred peso": 140,
+        "Genuine one thousand peso": 140,
+        "Genuine twenty peso": 140,
+        "Genuine two hundred peso": 140,
+        "counterfeit": 217
+      },
+      "images_per_class": {
+        "Counterfeit fifty peso": 140,
+        "Counterfeit five hundred peso": 140,
+        "Counterfeit one hundred peso": 140,
+        "Counterfeit one thousand peso": 140,
+        "Counterfeit twenty peso": 140,
+        "Counterfeit two hundred peso": 140,
+        "Genuine fifty peso": 140,
+        "Genuine five hundred peso": 140,
+        "Genuine one thousand peso": 140,
+        "Genuine twenty peso": 140,
+        "Genuine two hundred peso": 140,
+        "counterfeit": 217
+      },
+      "box_area_share_median": 0.5816357421875,
+      "box_area_share_p10": 0.35848828125,
+      "box_area_share_p90": 0.85161865234375,
+      "share_small_boxes_lt_1pct": 0.0
+    },
+    "valid": {
+      "images": 440,
+      "images_without_labels": 0,
+      "images_with_several_boxes": 0,
+      "images_with_fake": 240,
+      "share_images_with_fake": 0.5454545454545454,
+      "instances_per_class": {
+        "Counterfeit fifty peso": 40,
+        "Counterfeit five hundred peso": 40,
+        "Counterfeit one hundred peso": 40,
+        "Counterfeit one thousand peso": 40,
+        "Counterfeit twenty peso": 40,
+        "Counterfeit two hundred peso": 40,
+        "Genuine fifty peso": 40,
+        "Genuine five hundred peso": 40,
+        "Genuine one thousand peso": 40,
+        "Genuine twenty peso": 40,
+        "Genuine two hundred peso": 40
+      },
+      "images_per_class": {
+        "Counterfeit fifty peso": 40,
+        "Counterfeit five hundred peso": 40,
+        "Counterfeit one hundred peso": 40,
+        "Counterfeit one thousand peso": 40,
+        "Counterfeit twenty peso": 40,
+        "Counterfeit two hundred peso": 40,
+        "Genuine fifty peso": 40,
+        "Genuine five hundred peso": 40,
+        "Genuine one thousand peso": 40,
+        "Genuine twenty peso": 40,
+        "Genuine two hundred peso": 40
+      },
+      "box_area_share_median": 0.6303375244140624,
+      "box_area_share_p10": 0.45534973144531254,
+      "box_area_share_p90": 0.85161865234375,
+      "share_small_boxes_lt_1pct": 0.0
+    },
+    "test": {
+      "images": 220,
+      "images_without_labels": 0,
+      "images_with_several_boxes": 0,
+      "images_with_fake": 120,
+      "share_images_with_fake": 0.5454545454545454,
+      "instances_per_class": {
+        "Counterfeit fifty peso": 20,
+        "Counterfeit five hundred peso": 20,
+        "Counterfeit one hundred peso": 20,
+        "Counterfeit one thousand peso": 20,
+        "Counterfeit twenty peso": 20,
+        "Counterfeit two hundred peso": 20,
+        "Genuine fifty peso": 20,
+        "Genuine five hundred peso": 20,
+        "Genuine one thousand peso": 20,
+        "Genuine twenty peso": 20,
+        "Genuine two hundred peso": 20
+      },
+      "images_per_class": {
+        "Counterfeit fifty peso": 20,
+        "Counterfeit five hundred peso": 20,
+        "Counterfeit one hundred peso": 20,
+        "Counterfeit one thousand peso": 20,
+        "Counterfeit twenty peso": 20,
+        "Counterfeit two hundred peso": 20,
+        "Genuine fifty peso": 20,
+        "Genuine five hundred peso": 20,
+        "Genuine one thousand peso": 20,
+        "Genuine twenty peso": 20,
+        "Genuine two hundred peso": 20
+      },
+      "box_area_share_median": 0.6303375244140624,
+      "box_area_share_p10": 0.45534973144531254,
+      "box_area_share_p90": 0.85161865234375,
+      "share_small_boxes_lt_1pct": 0.0
+    }
+  }
+}

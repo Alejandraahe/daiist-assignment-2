@@ -14,3 +14,6 @@ runs/
 
 # Never commit your API key
 .env
+
+# YOLO starting checkpoints downloaded at train time
+/yolo11*.pt
